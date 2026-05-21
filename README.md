@@ -16,21 +16,6 @@ It scans common ports on a target host and identifies whether ports are open or 
 - Simple socket programming
 - Beginner-friendly cybersecurity project
 
----
-
-## 📁 Project Structure
-
-Python-Port-Scanner/
-│
-├── port_scanner.py
-├── README.md
-├── requirements.txt
-│
-├── screenshots/
-│   └── scanner-output.png
-│
-└── output/
-    └── scan_results.txt
 
 ---
 
