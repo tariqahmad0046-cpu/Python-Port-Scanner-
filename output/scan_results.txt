@@ -1,0 +1,7 @@
+SCAN RESULTS
+
+Target: scanme.nmap.org
+
+[OPEN] Port 80
+[OPEN] Port 443
+[CLOSED] Port 21
