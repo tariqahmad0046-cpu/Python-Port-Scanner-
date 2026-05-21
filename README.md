@@ -24,3 +24,26 @@ It scans common ports on a target host and identifies whether ports are open or 
 ```bash
 git clone https://github.com/yourusername/Python-Port-Scanner.git
 cd Python-Port-Scanner
+
+---
+
+# 🧠 WHAT YOU LEARN FROM THIS PROJECT
+
+✔ Open ports meaning  
+✔ Recon basics  
+✔ Network services  
+✔ Socket programming  
+✔ Real hacker workflow basics  
+
+---
+
+# 🔥 WHY THIS PROJECT IS IMPORTANT
+
+Bug bounty hunters use recon tools to:
+
+- identify services
+- find attack surfaces
+- locate admin panels
+- discover APIs
+
+Port scanning is one of the first steps.
